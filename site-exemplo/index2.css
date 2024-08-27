@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet;
+
+}
+h2{
+    color: brown;
+}
+#Economia h2{
+    color: rgb(229, 245, 14);
+}
+.data{
+    color: rgb(198, 226, 43);
+}
+*{
+color: rgb(12, 12, 12);
+}
